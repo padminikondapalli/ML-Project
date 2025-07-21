@@ -3,7 +3,7 @@
 This project is a machine learning model that classifies music genres based on dataset features. Built and tested in Google Colab using Python and standard ML libraries.
 
 ## 📂 Files in this Project
-- Untitled7.ipynb: The Jupyter notebook containing the ML code.
+- Movie_genre.ipynb: The Jupyter notebook containing the ML code.
 - datasets/: Folder containing training and testing datasets.
   - train_data.txt
   - test_data.txt
