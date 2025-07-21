@@ -29,3 +29,10 @@ This project is a machine learning model that classifies music genres based on d
 You can run this notebook on [Google Colab](https://colab.research.google.com) by uploading the .ipynb and dataset files.
 
 ---
+
+## 🔧 How to Run This Project
+
+1. Download the archive.zip file and extract it.
+2. Open Movie_genre.ipynb in Google Colab.
+3. Upload the extracted dataset files using Colab file upload.
+4. Run the cells step by step.
